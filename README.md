@@ -4,6 +4,6 @@
 ![](Glitch1.gif)
 
 - Undergraduate of Computer Science and Engineering at University of Moratuwa 
-- A Former trainee software Engineer at AtLink Communications Inc.
+- A former trainee software Engineer at AtLink Communications Inc.
 
 
