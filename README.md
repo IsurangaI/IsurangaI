@@ -4,6 +4,6 @@
 ![](Glitch1.gif)
 
 - Undergraduate of Computer Science and Engineering at University of Moratuwa 
-- A former trainee software engineer at AtLink Communications Inc.
+- A software engineer at Sysco LABS Sri Lanka.
 
 
