@@ -1,12 +1,40 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there, I'm [Your Name] 👋
 
+<img align="right" width="350" src="https://github.com/user-attachments/assets/c54c73cf-3248-465c-8c6c-a2f382ba4c05" alt="Profile Banner or Workspace" />
 
-![](<img width="1280" height="532" alt="vlcsnap-2026-06-29-01h42m41s301" src="https://github.com/user-attachments/assets/c54c73cf-3248-465c-8c6c-a2f382ba4c05" />
-)
+**Senior Software Engineer | Cloud-Native Architectures | Java & React Enthusiast**
 
-- Senior Software Engineer at Cut+Dry
-- Former software engineer at Sysco LABS Sri Lanka.
-- Undergraduate of Computer Science and Engineering at University of Moratuwa 
+I am a Senior Software Engineer with over 4 years of experience building scalable, distributed systems and modern web applications. Currently, I am focused on clean code, microservices architecture, and cloud infrastructure.
 
+### 🚀 About Me
+- 💻 **Current Role:** Senior Software Engineer at **Cut+Dry**.
+- 🏢 **Previous Experience:** Software Engineer at **Sysco LABS**.
+- 🎓 **Education:** BSc in Computer Science and Engineering from the **University of Moratuwa**.
+- 🌱 **Currently Learning:** Deepening my knowledge in LLM orchestration, AI agents, and advanced distributed system design.
+- 🎯 **Current Focus:** Building a cloud-native ride-hailing backend (Microservices) and an AI/LLM-integrated pet project.
+- 📫 **How to reach me:** [Your LinkedIn URL] or [Your Email]
 
+---
 
+### 🛠️ Core Tech Stack & Tools
+
+**Languages & Frameworks:**
+- Java (Spring Boot, Hibernate)
+- JavaScript / TypeScript (React, Node.js)
+- PHP
+
+**Cloud & Infrastructure:**
+- AWS (Certified Developer Associate)
+- Docker & CI/CD Pipelines
+- RESTful APIs & Microservices Architecture
+
+**Databases:**
+- Relational (MySQL, PostgreSQL)
+- NoSQL & Caching (Redis, Elasticsearch)
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
