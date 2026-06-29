@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Isuranga Iniyage 👋
 
 <img align="right" width="350" src="https://github.com/user-attachments/assets/c54c73cf-3248-465c-8c6c-a2f382ba4c05" alt="Profile Banner or Workspace" />
 
